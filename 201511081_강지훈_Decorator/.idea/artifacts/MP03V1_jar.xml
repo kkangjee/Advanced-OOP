@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MP03V1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MP03V1_jar</output-path>
+    <root id="archive" name="MP03V1.jar">
+      <element id="module-output" name="MP03V1" />
+    </root>
+  </artifact>
+</component>
